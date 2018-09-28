@@ -6,3 +6,7 @@ https://help.github.com/articles/creating-a-personal-access-token-for-the-comman
 In main.js set value of GITHUB_TOKEN to the token from github
 
 Run index.html
+
+
+Demo:
+http://vishal-sharma.in/web_developer_challenge/
